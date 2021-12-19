@@ -62,3 +62,8 @@ a {
 	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 	object-fit: contain;
 }
+
+.gold__text {
+	color: #ff8f00;
+	font-weight: bold;
+}
