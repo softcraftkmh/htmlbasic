@@ -38,7 +38,7 @@ a {
 .container {
 	width: 80%;
 	max-width: 1200px;
-	margin: 0 auto;
+	margin: 26px auto;
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 	gap: 16px;
@@ -68,4 +68,13 @@ a {
 .gold__text {
 	color: #ff8f00;
 	font-weight: bold;
+}
+
+.footer {
+	background-color: #c62828;
+	color: #fff;
+	height: 50px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
